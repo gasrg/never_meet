@@ -1,1 +1,1 @@
-[Run me] (https://gasrg.github.io/never_meet/)
+https://gasrg.github.io/never_meet/
